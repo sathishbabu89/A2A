@@ -143,12 +143,3 @@ Content-Type: application/json
 * More agents: Security Review, Optimization, Logging Enhancer, etc.
 * Use official [A2A Protocol](https://a2a-protocol.org/) standard message format
 
----
-
-Let me know if you want this turned into:
-
-* A downloadable **PDF/Markdown**
-* A 3-slide **PowerPoint deck**
-* A GitHub README template
-
-Or want to present it to your leadership — I can help with a **demo script or talking points** too.
